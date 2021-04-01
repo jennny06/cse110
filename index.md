@@ -36,6 +36,6 @@ My weekend plan:
 3. Go to the beach
 
 
-Lastly, pictures of my dogs and cat using relative link:
+Lastly, a picture of my cat using relative link:
+
 ![](pictures/cat.jpg)
-![](pictures/dog.jpg)
