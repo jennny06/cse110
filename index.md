@@ -23,6 +23,9 @@ A todo for this lab:
 
 ## Me as a Person
 
+I am a graduating senior majoring in CS with specialization in Bioinformatics. 
+
+
 My quote today is: 
 > Happiness is the only thing that multiplies when you share it.
 
